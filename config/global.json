@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Bromance": {
+            "applicationId": "0fZteiWeXkv49jX4FkUrBUsWTnuGIhR4qFXNLwAt", 
+            "masterKey": "iwB2rPrdVf4SLT9PwEW7f28WDuqoPVepXD7I8kjR"
+        }, 
+        "_default": {
+            "link": "Bromance"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.12"
+    }
+}
